@@ -1,0 +1,20 @@
+{
+  "name": "superslide",
+  "version": "2.1.1",
+  "homepage": "https://github.com/chinakids/superslide",
+  "authors": [
+    "chinakids <494063570@qq.com>"
+  ],
+  "main": "jquery.SuperSlide.2.1.1.js",
+  "keywords": [
+    "slide"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
